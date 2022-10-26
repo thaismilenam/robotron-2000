@@ -1,9 +1,19 @@
-# robotron-2000
+# Robotron 2000 - Curso JavaScript: manipulando DOM
+Repositório destinado ao curso de JavaScript DOM da Plataforma Alura.
 
+## Java Script para Web
+
+Selecionar um elemento pelo ID
 ###
-        document.getElementByID(id) - Selecionar um elemento pelo ID.
-        document.getElementsByTagName(name) - Selecionar um elemento pelo nome.
-        document.getElementsByClassName(name) - Selecionar um elemento pelo nome da classe.
+        document.getElementByID(id)
+
+Selecionar um elemento pelo nome
+###
+        document.getElementsByTagName(name) 
+
+Selecionar um elemento pelo nome da classe
+###
+        document.getElementsByClassName(name)
 
 Procurar elemento, sem dizer se é classe ou id, definida no html:
 
